@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Work App</string>
+    <string name="intro"></string>
+    <string name="next">Next</string>
+</resources>
